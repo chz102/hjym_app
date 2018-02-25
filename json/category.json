@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "name": "面部轮廓",
+      "icon": "images/icon/category/icon_面部轮廓.png",
+      "gotoPage": "Category2",
+      "child":{
+        "type": "list",
+        "list": [{
+          "name":"再生医学面部CT"
+        },{
+          "name":"全面部精雕"
+        },{
+          "name":"氧离子线雕"
+        },{
+          "name":"爱心脸定制"
+        },{
+          "name":"磁力光下颌线提紧"
+        }]
+      }
+    },
+    {
+      "name": "眼部",
+      "icon": "images/icon/category/icon_眼部.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "鼻部",
+      "icon": "images/icon/category/icon_鼻部.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "口唇",
+      "icon": "images/icon/category/icon_口唇.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "天鹅颈打造",
+      "icon": "images/icon/category/icon_天鹅颈.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "胸部",
+      "icon": "images/icon/category/icon_胸部.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "紧肤抗衰",
+      "icon": "images/icon/category/icon_紧肤抗衰.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "全身塑形",
+      "icon": "images/icon/category/icon_全身塑形.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "私密",
+      "icon": "images/icon/category/icon_私密.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "皮肤美容",
+      "icon": "images/icon/category/icon_皮肤美容.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "大健康",
+      "icon": "images/icon/category/icon_大健康.png",
+      "gotoPage": "ProjectList"
+    },
+    {
+      "name": "毛发移植",
+      "icon": "images/icon/category/icon_毛发移植.png",
+      "gotoPage": "ProjectList"
+    }
+  ]
+}

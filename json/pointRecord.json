@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "date":"2017-01-01",
+      "event": "参与活动",
+      "type":"add",
+      "point":99
+    },
+    {
+      "date":"2017-01-03",
+      "event": "预约",
+      "type":"add",
+      "point":299
+    },
+    {
+      "date":"2017-01-01",
+      "event": "签到",
+      "type":"add",
+      "point":10
+    },
+    {
+      "date":"2017-02-15",
+      "event": "美丽圈发布文章",
+      "type":"add",
+      "point":1000
+    },
+    {
+      "date":"2017-02-15",
+      "event": "积分兑换礼品",
+      "type":"subtract",
+      "point":2000
+    },
+    {
+      "date":"2017-01-01",
+      "event": "参与活动",
+      "type":"add",
+      "point":99
+    },
+    {
+      "date":"2017-01-03",
+      "event": "预约",
+      "type":"add",
+      "point":299
+    },
+    {
+      "date":"2017-01-01",
+      "event": "签到",
+      "type":"add",
+      "point":10
+    },
+    {
+      "date":"2017-02-15",
+      "event": "美丽圈发布文章",
+      "type":"add",
+      "point":1000
+    },
+    {
+      "date":"2017-02-15",
+      "event": "积分兑换礼品",
+      "type":"subtract",
+      "point":2000
+    },
+    {
+      "date":"2017-01-01",
+      "event": "参与活动",
+      "type":"add",
+      "point":99
+    },
+    {
+      "date":"2017-01-03",
+      "event": "预约",
+      "type":"add",
+      "point":299
+    },
+    {
+      "date":"2017-01-01",
+      "event": "签到",
+      "type":"add",
+      "point":10
+    },
+    {
+      "date":"2017-02-15",
+      "event": "美丽圈发布文章",
+      "type":"add",
+      "point":1000
+    },
+    {
+      "date":"2017-02-15",
+      "event": "积分兑换礼品",
+      "type":"subtract",
+      "point":2000
+    }
+  ]
+}
