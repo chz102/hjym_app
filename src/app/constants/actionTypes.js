@@ -1,0 +1,20 @@
+// base
+const BASE_LOADING = "BASE_LOADING"
+
+// junshi
+const FETCH_JUNSHI = "FETCH_JUNSHI"
+const RECEIVE_JUNSHI = "RECEIVE_JUNSHI"
+
+// login
+const FETCH_LOGIN = "FETCH_LOGIN"
+const RECEIVE_LOGIN = "RECEIVE_LOGIN"
+
+
+module.exports = {
+  BASE_LOADING,
+  FETCH_JUNSHI,
+  RECEIVE_JUNSHI,
+
+    FETCH_LOGIN,
+    RECEIVE_LOGIN
+}
